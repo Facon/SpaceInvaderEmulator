@@ -1,4 +1,4 @@
-# SpaceInvaderEmulator
+# SpaceInvadersEmulator
 Another Space Invaders emulator
 
 # Background
